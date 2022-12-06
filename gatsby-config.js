@@ -1,34 +1,34 @@
 module.exports = {
   siteMetadata: {
-    siteTitle: 'Chronoblog Starter',
-    siteDescription: 'Starter for Gatsby Theme Chronoblog',
+    siteTitle: 'NextDoorJoe',
+    siteDescription: 'A blog!',
     siteImage: '/banner.png', // main image of the site for metadata
     siteUrl: 'https://chronoblog.now.sh/',
     pathPrefix: '/',
     siteLanguage: 'en',
     ogLanguage: `en_US`,
-    author: 'Site Author', // for example - 'Ivan Ganev'
-    authorDescription: 'short author description', // short text about the author
+    author: 'Aditya Kappagantula', // for example - 'Ivan Ganev'
+    authorDescription: 'Frontend Engineer', // short text about the author
     avatar: '/avatar.jpg',
     twitterSite: '', // website account on twitter
     twitterCreator: '', // creator account on twitter
     social: [
       {
         icon: `at`,
-        url: `mailto:mymail@mail.com`,
+        url: `mailto:kappagantulaaditya@gmail.com`,
       },
       {
-        icon: `twitter`,
-        url: `https://twitter.com/ganevru`,
+        icon: `linkedin`,
+        url: `https://linkedin.com/in/kappagantulaaditya`,
       },
-      {
-        icon: `github`,
-        url: `https://github.com/Chronoblog/gatsby-theme-chronoblog`,
-      },
-      {
-        icon: `node-js`,
-        url: `https://www.npmjs.com/package/gatsby-theme-chronoblog`,
-      },
+      // {
+      //   icon: `github`,
+      //   url: `https://github.com/Chronoblog/gatsby-theme-chronoblog`,
+      // },
+      // {
+      //   icon: `node-js`,
+      //   url: `https://www.npmjs.com/package/gatsby-theme-chronoblog`,
+      // },
     ],
   },
   plugins: [
